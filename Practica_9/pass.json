@@ -1,0 +1,13 @@
+{
+    "information": [
+        {
+            "user": "example@uanl.edu.mx",
+            "password": "-",
+            "server": "smtp.office365.com:587",
+            "recepter": [
+                "example@gmail.com",
+                "example_2@gmail.com"
+            ]
+        }
+    ]
+}
